@@ -1,0 +1,15 @@
+{
+  "name": "electron-tablet-app",
+  "version": "0.0.1",
+  "description": "Electron Tablet App Testing Env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron . "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^27.0.3"
+  }
+}
